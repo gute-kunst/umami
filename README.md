@@ -94,7 +94,7 @@ To update the Docker image, simply pull the new images and rebuild:
 docker compose pull
 docker compose up --force-recreate
 ```
-
+ 
 ## License
 
 MIT
